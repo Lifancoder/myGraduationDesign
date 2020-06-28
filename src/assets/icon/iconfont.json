@@ -1,0 +1,156 @@
+{
+  "id": "1580850",
+  "name": "myIcon",
+  "font_family": "iconfont",
+  "css_prefix_text": "my-icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6850412",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "797120",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "2357496",
+      "name": "修改密码",
+      "font_class": "xiugaimima",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "5921607",
+      "name": "安全退出",
+      "font_class": "anquantuichu",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "3670137",
+      "name": "日历",
+      "font_class": "tubiaolunkuo-",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "767685",
+      "name": "人民币",
+      "font_class": "renminbi",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "995973",
+      "name": "房子",
+      "font_class": "fangzi",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "12331681",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "587349",
+      "name": "收起",
+      "font_class": "shouqi",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "588624",
+      "name": "展开",
+      "font_class": "zhankai",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "12548446",
+      "name": "权限管理",
+      "font_class": "quanxianguanli-",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "289737",
+      "name": "报表",
+      "font_class": "forms",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "4250542",
+      "name": " 财务",
+      "font_class": "finance",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "5318214",
+      "name": "房屋房产",
+      "font_class": "fangwufangchan",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "5878215",
+      "name": "概况",
+      "font_class": "gaikuang",
+      "unicode": "e760",
+      "unicode_decimal": 59232
+    },
+    {
+      "icon_id": "9589367",
+      "name": "抄表",
+      "font_class": "chaobiao",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "825910",
+      "name": "再次输入密码",
+      "font_class": "zaicishurumima",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "1435248",
+      "name": "验证码",
+      "font_class": "yanzhengma",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "1112266",
+      "name": "密码",
+      "font_class": "mima1",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "6582317",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "12510298",
+      "name": "账号",
+      "font_class": "zhanghao-copy",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    }
+  ]
+}
